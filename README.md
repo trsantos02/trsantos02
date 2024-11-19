@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Thiago Santos
+# 👨🏾‍💻 Thiago
 
 **`"Formado em ADS | Estudante de Pós em Data Analytics | Buscando Estágio em TI"`**
 
