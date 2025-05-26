@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Thiago Santos
 
-**`"Formado em ADS | Estudante de Pós em Data Analytics | Buscando Estágio em TI"`**
+**`"Formado em ADS | Estudante de Pós em Data Analytics | Estágiario em Analise de Dados"`**
 
 "Data Analytics Student | Formado em Análise e Desenvolvimento de Sistemas | Em transição de carreira de Telecom para Desenvolvimento de Software | Apaixonado por dados, tecnologia e aprendizado contínuo."
 
@@ -25,23 +25,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img 
